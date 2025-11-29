@@ -1,0 +1,4 @@
+node_modules
+.env
+.vercel
+zap-shift-firebase-adminsdk.json
